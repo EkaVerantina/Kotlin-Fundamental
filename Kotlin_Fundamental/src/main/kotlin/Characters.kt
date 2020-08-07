@@ -1,0 +1,20 @@
+fun main() {
+    var value = 'Z'
+    println("Huruf " + value --)
+    println("Huruf " + value --)
+    println("Huruf " + value --)
+    ("Huruf " + value --)
+    ("Huruf " + value --)
+    ("Huruf " + value --)
+    ("Huruf " + value --)
+    println("Huruf " + value --)
+    println("Huruf " + value ++)
+    println("Huruf " + value ++)
+    ("Huruf " + value ++)
+    ("Huruf " + value ++)
+    ("Huruf " + value ++)
+    ("Huruf " + value ++)
+    println("Huruf " + value ++)
+    println("Huruf " + value ++)
+    println("Huruf " + value ++)
+}
